@@ -7,23 +7,20 @@
 
 ## TECHNICAL SKILLS:
 
-LANGUAGES: C, C++, PHP.
+* #### Front End
+	* JavaScript, ES6, HTML5, CSS3
+	* ReactJS
+  * Wordpress
+  * Bootstrap, SCSS, LESS, Responsive
 
-WEB TECHNOLOGIES: XML, HTML, XHTML, CSS, JavaScript, PHP, Bootstrap, JQuery.
-
-WEB SERVICES: JSON, REST.
-- Front End:
-  JavaScript, ES6, HTML5, CSS3
-  ReactJS
-  Wordpress
-  Bootstrap, SCSS, LESS, Responsive
-- Dev:
-  Design Tools
-  UI Testing
-  Git
-- Back End:
-  MySQL
-  Typescript, PHP
+* #### Dev
+	* Design Tools
+	* UI Testing
+	* Git
+	
+* #### Back End
+	* MySQL
+	* Typescript, PHP
 
 ## Responsibilities:
 - Provide support for project execution involving new solution if required.
@@ -47,10 +44,10 @@ Highly knowledgeable on scalable and usable UI components and Front-end architec
 - [x] Responsible on production app performance. Resolved significant webpage optimisation.
 - [x] Participate in the front-end architecture work in a new generation website.
 #### Projects
- - Shotyz
- - VVN
- - TWV
- - GreenWeb
+- [x] Shotyz: https://shotyz.io
+- [x] VVN: https://votrevoyagedenoces.fr/
+- [x] TWV: https://twvexpress.com/
+- [x] GreenWeb: https://green-web.fr/
 
 ## Education
 
