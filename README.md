@@ -12,16 +12,16 @@ LANGUAGES: C, C++, PHP.
 WEB TECHNOLOGIES: XML, HTML, XHTML, CSS, JavaScript, PHP, Bootstrap, JQuery.
 
 WEB SERVICES: JSON, REST.
-- Front End
+- Front End:
   JavaScript, ES6, HTML5, CSS3
   ReactJS
   Wordpress
   Bootstrap, SCSS, LESS, Responsive
-- Dev
+- Dev:
   Design Tools
   UI Testing
   Git
-- Back End
+- Back End:
   MySQL
   Typescript, PHP
 
