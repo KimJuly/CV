@@ -47,10 +47,10 @@ Highly knowledgeable on scalable and usable UI components and Front-end architec
 - [x] Responsible on production app performance. Resolved significant webpage optimisation.
 - [x] Participate in the front-end architecture work in a new generation website.
 #### Projects
- Shotyz
- VVN
- TWV
- GreenWeb
+ - Shotyz
+ - VVN
+ - TWV
+ - GreenWeb
 
 ## Education
 
