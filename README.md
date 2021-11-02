@@ -45,7 +45,6 @@ Highly knowledgeable on scalable and usable UI components and Front-end architec
 - [x] Shotyz: https://shotyz.io
 - [x] VVN: https://votrevoyagedenoces.fr/
 - [x] TWV: https://twvexpress.com/
-- [x] GreenWeb: https://green-web.fr/
 - [x] JCL Pro: https://pro.jeclic-local.fr/
 - [x] Maxxing: https://maxxing.espm-group.com/
 
