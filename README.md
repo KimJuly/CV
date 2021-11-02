@@ -25,9 +25,7 @@
 ## Responsibilities:
 - Provide support for project execution involving new solution if required.
 
-- Followup to closure in order to implement change and escalate to supervisor if required.
-
-- Design and implement solutions (using industry standard best practices) with functions in the organization that utilize and access Salesforce.com.
+- Followup to closure in order to implement change and escalate to supervisor if required
 
 
 Environment: Pages, Data Loader, HTML, JavaScript.
