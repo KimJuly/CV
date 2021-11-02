@@ -34,8 +34,8 @@ Environment: Pages, Data Loader, HTML, JavaScript.
 
 ## Summary
 
-As a 1 years agile geek in web engineering, with experience in PHP full-stack and the JavaScript stack development;
-Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React rendering theory. Driven and detailed-oriented Salesforce developer with professional experience in Salesforce and supplementary programs. Good communicator who is not afraid to ask questions to understand project requirements fully. Skilled researcher able to identify opportunities in a given arena.
+As a 1 years agile geek in web engineering, with experience in PHP and the JavaScript stack development;
+Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React rendering theory. Good communicator who is not afraid to ask questions to understand project requirements fully. Skilled researcher able to identify opportunities in a given arena.
 
 ## Experience
 
@@ -48,6 +48,7 @@ Highly knowledgeable on scalable and usable UI components and Front-end architec
 - [x] VVN: https://votrevoyagedenoces.fr/
 - [x] TWV: https://twvexpress.com/
 - [x] GreenWeb: https://green-web.fr/
+- [x] JCL Pro: https://pro.jeclic-local.fr/
 
 ## Education
 
