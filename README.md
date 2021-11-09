@@ -17,11 +17,6 @@
 	* Design Tools
 	* UI Testing
 	* Git
-	
-* #### Back End
-	* MySQL
-	* Typescript, PHP
-
 ## Responsibilities:
 - Provide support for project execution involving new solution if required.
 
