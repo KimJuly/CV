@@ -1,6 +1,6 @@
 ## Tran Thi Kim Chi
 
-* Junior Front End Developer in `Metta Depth`.
+* Junior Front End Developer in `MettaDepth`.
 * Working experience in Vietnam.
 * Email: [tranthikimchi357@gmail.com](tranthikimchi357)
 * Phone: [+84344472377](+84344472377)
