@@ -33,7 +33,7 @@ Highly knowledgeable on scalable and usable UI components and Front-end architec
 ## Experience
 
 ### Junior Front End Developer
-#### Metta Depth `July 2020 - Present`
+#### Metta Depth `July 2020 - November 2021`
 - [x] Responsible on production app performance. Resolved significant webpage optimisation.
 - [x] Participate in the front-end architecture work in a new generation website.
 #### Projects
